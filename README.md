@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Link](/page1.html)
+[Link](/temp/page1.html)
 
 You can use the [editor on GitHub](https://github.com/DavidMc1948/temp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
