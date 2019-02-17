@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+\int_{0}^{\pi} \sin x \, dx = 2 
+
 [Link](/temp/page1.html)
 
 You can use the [editor on GitHub](https://github.com/DavidMc1948/temp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
