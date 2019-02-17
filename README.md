@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
 
-{"storage1":"{\"latex_src\":\"\\\\int_{0}^{\\\\pi} \\\\sin x \\\\, dx = 2 \",\"usernote\":\"\"}","storage2":"[{\"time\":1550384131394,\"data\":\"\\\\int_{0}^{\\\\pi} \\\\sin x \\\\, dx = 2 \",\"enablecolor\":false,\"bgcolor\":\"FFFFFF\",\"textcolor\":\"000000\",\"transparent\":\"0\",\"height\":\"0\",\"id\":1}]"}
 
 [Link](/temp/page1.html)
 
